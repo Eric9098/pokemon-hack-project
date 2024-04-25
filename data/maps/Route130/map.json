@@ -78,7 +78,19 @@
       "flag": "0"
     }
   ],
-  "warp_events": [],
-  "coord_events": [],
-  "bg_events": []
+  "warp_events": [
+    {
+      "x": 42,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_LITTLEROOT_TOWN",
+      "dest_warp_id": "4"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
 }
